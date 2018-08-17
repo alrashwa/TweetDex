@@ -1,0 +1,15 @@
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.csproj.CoreCompileInputs.cache
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.AssemblyInfoInputs.cache
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.AssemblyInfo.cs
+C:\projects\TweetDex\src\TweetDex\TweetDex\bin\Debug\netcoreapp2.1\TweetDex.deps.json
+C:\projects\TweetDex\src\TweetDex\TweetDex\bin\Debug\netcoreapp2.1\TweetDex.runtimeconfig.json
+C:\projects\TweetDex\src\TweetDex\TweetDex\bin\Debug\netcoreapp2.1\TweetDex.runtimeconfig.dev.json
+C:\projects\TweetDex\src\TweetDex\TweetDex\bin\Debug\netcoreapp2.1\TweetDex.dll
+C:\projects\TweetDex\src\TweetDex\TweetDex\bin\Debug\netcoreapp2.1\TweetDex.pdb
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.csprojAssemblyReference.cache
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.RazorAssemblyInfo.cache
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.RazorAssemblyInfo.cs
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.RazorTargetAssemblyInfo.cache
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.dll
+C:\projects\TweetDex\src\TweetDex\TweetDex\obj\Debug\netcoreapp2.1\TweetDex.pdb
