@@ -1,0 +1,9 @@
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\bin\Debug\netcoreapp2.1\TweetDex.core.deps.json
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\bin\Debug\netcoreapp2.1\TweetDex.core.dll
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\bin\Debug\netcoreapp2.1\TweetDex.core.pdb
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\obj\Debug\netcoreapp2.1\TweetDex.core.csprojAssemblyReference.cache
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\obj\Debug\netcoreapp2.1\TweetDex.core.csproj.CoreCompileInputs.cache
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\obj\Debug\netcoreapp2.1\TweetDex.core.AssemblyInfoInputs.cache
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\obj\Debug\netcoreapp2.1\TweetDex.core.AssemblyInfo.cs
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\obj\Debug\netcoreapp2.1\TweetDex.core.dll
+C:\projects\TweetDex\src\TweetDex\ClassLibrary1\obj\Debug\netcoreapp2.1\TweetDex.core.pdb
