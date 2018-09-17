@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\TweetDex.Core.csproj" />
+    <ProjectReference Include="..\TweetDex.Core\TweetDex.Core.csproj" />
   </ItemGroup>
 
 </Project>
