@@ -23,6 +23,7 @@
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<ITweetRepository, TweetRepository>();
             services.AddTransient<ITweetService, TweetService>();
+            //register the tweet Nuget package here
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

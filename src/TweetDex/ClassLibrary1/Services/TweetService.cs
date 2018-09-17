@@ -15,7 +15,7 @@
         {
             this.tweetRepository = tweetRepository;
         }
-
+        
         public string GetMostRecentTweet() => tweetRepository.GetMostRecentTweet();
     }
 }

@@ -6,3 +6,10 @@ C:\projects\TweetDex\src\TweetDex\TweetTest\obj\Debug\netcoreapp2.1\TweetDex.tes
 C:\projects\TweetDex\src\TweetDex\TweetTest\obj\Debug\netcoreapp2.1\TweetDex.test.AssemblyInfo.cs
 C:\projects\TweetDex\src\TweetDex\TweetTest\obj\Debug\netcoreapp2.1\TweetDex.test.dll
 C:\projects\TweetDex\src\TweetDex\TweetTest\obj\Debug\netcoreapp2.1\TweetDex.test.pdb
+C:\projects\TweetDex\src\TweetDex\TweetTest\obj\Debug\netcoreapp2.1\TweetDex.Test.csprojAssemblyReference.cache
+C:\projects\TweetDex\src\TweetDex\TweetTest\bin\Debug\netcoreapp2.1\TweetDex.Test.runtimeconfig.json
+C:\projects\TweetDex\src\TweetDex\TweetTest\bin\Debug\netcoreapp2.1\TweetDex.Test.runtimeconfig.dev.json
+C:\projects\TweetDex\src\TweetDex\TweetTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\projects\TweetDex\src\TweetDex\TweetTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\projects\TweetDex\src\TweetDex\TweetTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\projects\TweetDex\src\TweetDex\TweetTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
